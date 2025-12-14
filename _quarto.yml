@@ -11,10 +11,10 @@ website:
 
   page-footer: 
     border: true
-    left: "Your_Name 2024©"
+    left: "Daniel Watts 2025©"
     right: 
       - icon: linkedin
-        href: Your_LinkedIn_URL
+        href: www.linkedin.com/in/daniel-watts-b00112297
 
   navbar:
     background: primary
